@@ -232,6 +232,10 @@ grid-template-columns: 1fr 1fr 1fr 1fr;
     height:70%;
     border-radius:50%;
 }
+.must flex{
+    display:flex;
+    gap:10px;
+}
 .img-2{
     background-color: hsl(240, 75%, 98%);
 }
