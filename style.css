@@ -336,9 +336,11 @@ sec
     font-size: 22px;
     margin-left: 20px;
  }
+ .form{
+    display: inline-block !important;
+ }
 .width{
     width: 100%;
-    display: inline-block;
 }
 .section-3-input{
     width: 80%;
