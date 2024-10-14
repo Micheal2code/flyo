@@ -326,6 +326,7 @@ aside{
     display: flex;
     flex-direction: column;
     text-align: center;
+    gap: 40px;
 }
 sec
  .img-2{
@@ -347,6 +348,21 @@ sec
 }
 .section-3-button{
     width: 80%;
+}
+.footer-down{
+    grid-template-rows:1fr 1fr 1fr 1fr ;
+    grid-template-columns: 1fr;
+    gap: 10px;
+}
+.f-i{
+    width:41%;
+}
+.main-footer{
+    width: 80%;
+    font-size:30px ;
+}
+.footer-div-1{
+    font-size: 40px;
 }
 }
 .img-2{
