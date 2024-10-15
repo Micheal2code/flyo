@@ -350,9 +350,10 @@ sec
     width: 80%;
 }
 .footer-down{
-    grid-template-rows:1fr 1fr 1fr 1fr ;
+    grid-template-rows:auto auto auto auto ;
     grid-template-columns: 1fr;
-    gap: 10px;
+    gap: 60px;
+    margin-top: 60px;
 }
 .f-i{
     width:41%;
@@ -362,7 +363,19 @@ sec
     font-size:30px ;
 }
 .footer-div-1{
-    font-size: 40px;
+    font-size: 30px;
+}
+.top-footer{
+    display: inline-block !important;
+}
+.span-img{
+    width: 20px;
+    height: 20px;
+    margin-top: 13px;
+}
+.socials{
+    display: flex;
+    justify-content: center;
 }
 }
 .img-2{
