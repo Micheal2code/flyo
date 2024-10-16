@@ -238,7 +238,7 @@ grid-template-columns: 1fr 1fr 1fr 1fr;
     box-sizing: border-box;   
    }
     .header{
-    width: 90%;
+    width: 92vw;
     margin: auto;
     display: flex;
     justify-content: space-between;
@@ -246,11 +246,11 @@ grid-template-columns: 1fr 1fr 1fr 1fr;
     margin-top:40px;
  }
  nav{
-    gap:10px;
-    font-size: 0.9rem;
+    gap:8px;
+    font-size: 0.56rem;
  }
  .logo-img{
-    width:28vw;
+    width:23vw;
  }
  .section-1{
     flex-direction: column-reverse;
