@@ -55,8 +55,9 @@ p{
     width:90%;
     display: flex;
     gap: 15px;
-    margin-left: 77.763px;
-    margin-right: 77.763px;
+  /*  margin-left: 77.763px;
+    margin-right: 77.763px;*/
+    margin: auto;
  }
 .hero-input{
     padding: 12px 10px;
